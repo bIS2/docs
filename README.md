@@ -1,4 +1,4 @@
 docs
 ====
 
-documents, drawings and sketches
+documents explaining bIS
